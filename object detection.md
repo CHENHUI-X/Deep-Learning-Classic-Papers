@@ -80,7 +80,7 @@
 # SSD: Single Shot MultiBox Detector
 ## Wei Liu
 ### arXiv:1512.02325
-![475b3119138f3216405a00f965f84a09.png](../_resources/475b3119138f3216405a00f965f84a09.png)
+![SSD.png](https://github.com/CHENHUI-X/Deep-Learning-Classic-Papers/blob/master/img/SSD.png)
 这片文章一个比较突出的贡献是，直接***在不同resolutions的feature map*** 上的***每一个cell*** 直接使用 ***3 * 3 *  (K * (C +  4 )) 的 filter输出 vector or feature*** ,where ***C is the score of c class , 4 is the offset of this cell , K is number of box/anchor box on  this  resolutions***
 
 ***贡献就是使用不同 resolution 的 FM 抽特征，实现了不同分辨率的特征抽取，能够对小部件检测友好***
