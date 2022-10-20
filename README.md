@@ -1,5 +1,5 @@
 # Deep-Learning-Classic-Papers
-- 存储平时读过的深度学习经典论文，并添加适当的笔记注释（丑得很）。笔记类似下边这样：
+- 存储平时读过的深度学习经典论文，并添加适当的笔记注释（丑得很）。
 	- ![笔记样例.png](https://github.com/CHENHUI-X/Deep-Learning-Classic-Papers/blob/master/img/%E7%AC%94%E8%AE%B0%E6%88%AA%E5%9B%BE.png)
 
 
